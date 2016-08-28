@@ -1,0 +1,4 @@
+.envrc
+bindata.go
+aircon-off.json
+aircon-on.json

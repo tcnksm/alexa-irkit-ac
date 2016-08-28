@@ -1,0 +1,15 @@
+{
+    "header": {
+        "messageId": "01ebf625-0b89-4c4d-b3aa-32340e894688",
+        "name": "TurnOnRequest",
+        "namespace": "Alexa.ConnectedHome.Control",
+        "payloadVersion": "2"
+    },
+    "payload": {
+        "accessToken": "sampleAccessToken",
+        "appliance": {
+            "additionalApplianceDetails": {},
+            "applianceId": "[Device ID for Ceiling Fan]"
+        }
+    }
+}

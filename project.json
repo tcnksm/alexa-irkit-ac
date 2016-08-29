@@ -3,6 +3,6 @@
     "description": "Controll AC by Alexa and IRKit",
     "memory": 128,
     "timeout": 30,
-    "role": "arn:aws:iam::830737112439:role/go-alexa-irkit-ac_lambda_function",
+    "role": "arn:aws:iam::...",
     "environment": {}
 }
